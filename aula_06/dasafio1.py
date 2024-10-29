@@ -1,3 +1,5 @@
+print('Descubra o número secreto!')
+
 numero = int(input('Digite um número aleatório entre 1 e 20: '))
 
 import random
