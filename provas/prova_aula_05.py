@@ -1,4 +1,4 @@
-numero_de_alunos = int(input('Digite o número total de alunos da disciplina para calcular a media das notas: '))
+numero_de_alunos = int(input('Digite o número total de alunos da disciplina para calcular a média das notas: '))
 notas = 3
 
 nomes = []
