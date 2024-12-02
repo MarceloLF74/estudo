@@ -22,5 +22,5 @@ for i in range(1, 36):
         if resultado != str(i):
             print('Você errou!')
             break
-else:
-    print('Você ganhou o jogo FizzBuzz! Parabéns!')
+
+print('Você ganhou o jogo FizzBuzz! Parabéns!')
